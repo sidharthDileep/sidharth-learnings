@@ -9,5 +9,5 @@ spring:
   application:
     name: order-service
 logging:
-  file: C:/Users/Basant.Hota/Desktop/oms.log
+  file: D:\Coding\Logs\logs.log
 
